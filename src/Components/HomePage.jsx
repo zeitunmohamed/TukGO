@@ -30,14 +30,14 @@ function HomePage() {
                 <div className="hidden lg:flex lg:items-center lg:justify-center lg:ml-10 lg:mr-auto lg:space-x-10">
                     <a href="#" title="" className="text-base text-black transition-all duration-200 hover:text-opacity-80"> Features </a>
 
-                    <a href="#" title="" className="text-base text-black transition-all duration-200 hover:text-opacity-80"> Solutions </a>
+                    <a href="#" title="" className="text-base text-black transition-all duration-200 hover:text-opacity-80"> About Us</a>
 
                     <a href="#" title="" className="text-base text-black transition-all duration-200 hover:text-opacity-80"> Resources </a>
 
-                    <a href="#" title="" className="text-base text-black transition-all duration-200 hover:text-opacity-80"> Pricing </a>
+                    <a href="#" title="" className="text-base text-black transition-all duration-200 hover:text-opacity-80"> Blog </a>
                 </div>
 
-                <a href="#" title="" className="hidden lg:inline-flex items-center justify-center px-5 py-2.5 text-base font-semibold text-black border-2 border-black hover:bg-black hover:text-white transition-all duration-200 focus:bg-black focus:text-white" role="button"> Try for free </a>
+                <a href="#" title="" className="hidden lg:inline-flex items-center justify-center px-5 py-2.5 text-base font-semibold text-black border-2 border-black hover:bg-black hover:text-white transition-all duration-200 focus:bg-black focus:text-white" role="button"> Sign UP </a>
             </div>
         </div>
     </header>
